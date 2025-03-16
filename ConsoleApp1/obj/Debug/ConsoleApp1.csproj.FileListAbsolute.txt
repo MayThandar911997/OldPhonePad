@@ -1,0 +1,7 @@
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\DNETICS\CleanProject\Testing\WS1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
