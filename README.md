@@ -20,6 +20,8 @@ cd old-phone-keypad-decoder
   •	Using Visual Studio:
       1.	Open the project in Visual Studio.
       2.	Click Run.
+# Unit Testing
+  Used xUnit for unit testing.
       
 # Usage
   •	Typing 2 once → A, typing 22 → B, typing 222 → C.
