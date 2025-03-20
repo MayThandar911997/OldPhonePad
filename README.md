@@ -11,7 +11,7 @@ The program runs in a loop until the user presses Enter without typing anything 
   5.	Press Enter without input to exit the program.
 
 # Installation
-git clone [https://github.com/your-username/old-phone-keypad-decoder.git](https://github.com/MayThandar911997/OldPhonePad.git)
+git clone https://github.com/MayThandar911997/OldPhonePad.git
 cd old-phone-keypad-decoder
 
 # Compile and Run
